@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides study questions on electron microprobe analysis.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
