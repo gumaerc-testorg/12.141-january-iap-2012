@@ -5,6 +5,7 @@ file: /courses/12-141-electron-microprobe-analysis-january-iap-2012/280f89adb3be
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT12_141IAP12_pset3.pdf
 uid: 280f89ad-b3be-b8ae-e08a-2abbbca06fb8
 ---
 New file Upload
-
