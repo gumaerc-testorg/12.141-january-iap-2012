@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the reading assignments for each lecture session
+  of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e06bec8a-0c63-0ffe-a9cd-e0b7e7baae0e
 ---
 
-Readings are assigned in the Lecture Notes for this course. ([PDF - 3.1MB]({{< baseurl >}}/resources/mit12_141iap12_coursenotes))
+Readings are assigned in the Lecture Notes for this course. ({{% resource_link 258d0b0a-9acf-7a36-78d6-a99ddf91cc98 "PDF - 3.1MB" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}

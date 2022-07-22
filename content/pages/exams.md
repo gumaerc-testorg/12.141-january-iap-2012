@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides study questions on electron microprobe analysis.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 1d45627c-1ccb-8576-1218-c57170b8adf4
 ---
