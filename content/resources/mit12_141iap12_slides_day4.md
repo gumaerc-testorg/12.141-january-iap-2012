@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /ol-ocw-studio-app/courses/12-141-electron-microprobe-analysis-january-iap-2012/b90db6b72144fc614dee4c4d0ffc42d8_MIT12_141IAP12_slides_day4.pdf
+file: /courses/12-141-electron-microprobe-analysis-january-iap-2012/b90db6b72144fc614dee4c4d0ffc42d8_MIT12_141IAP12_slides_day4.pdf
 file_size: 976073
 file_type: application/pdf
 learning_resource_types:
